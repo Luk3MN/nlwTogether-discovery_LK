@@ -50,6 +50,7 @@ input, button, .button {
   margin-bottom: 1.8rem;
 }
 
+/* Separator Line */
 .separator {
   display: flex;
   align-items: center;
